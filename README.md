@@ -5,7 +5,7 @@ Notes by Ziheng
 10 October 2017
 Edited 22 November 2022
 
-# (A) Subsampling 3 sequences per locus for the 3s program
+## (A) Subsampling 3 sequences per locus for the 3s program
 
    bpp-subsample-data bpp-subsample-data.ctl 
    bpp-subsample-data bpp-subsample-data.ctl < in-3s-GAR.txt
@@ -41,7 +41,7 @@ and with 3 sequences per locus.  The sampled sequence IDs are listed in another 
 IDs-GAR.txt, which you may ignore if it is not useful.
 
 
-# (B) Subsampling 4 sequences per locus for D-statistic, HyDe, etc.
+## (B) Subsampling 4 sequences per locus for D-statistic, HyDe, etc.
 
    bpp-subsample-data bpp-subsample-data.ctl 
    bpp-subsample-data bpp-subsample-data.ctl < in-4s-GARO.txt
