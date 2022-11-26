@@ -5,6 +5,10 @@ Notes by Ziheng
 10 October 2017
 Edited 22 November 2022
 
+     gcc -o bpp-subsample-data -O3 bpp-subsample-data.c tools.c -lm
+     cl -Ox bpp-subsample-data.c tools.c
+
+
 ## (A) Subsampling 3 sequences per locus for the 3s program
 
    bpp-subsample-data bpp-subsample-data.ctl 
