@@ -1,0 +1,3 @@
+4: 1 5 3 7
+
+*  species&tree = 7  G  C  R  L  A  Q  O

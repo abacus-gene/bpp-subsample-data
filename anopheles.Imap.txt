@@ -1,0 +1,13 @@
+AgamS1       G
+AgamS1_w     G
+AgamM1       C
+AgamM1_w     C
+AmerM1       R
+AmerM1_w     R
+AmelC1       L
+AmelC1_w     L
+AaraD1       A
+AaraD1_w     A
+AquaS1_w     Q
+AquaS1       Q
+AchrA1       O
