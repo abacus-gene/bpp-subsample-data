@@ -34,8 +34,8 @@ The original sequence data file coding.3L12.txt has 17027 loci from seven specie
 i deleted most of the loci and testdata.coding.3L12.txt has only about 10 loci.  
 The species are listed in the control file: 
  
-  species&tree = 7  G  C  R  L  A  Q  O
-                    2  2  2  2  2  2  1
+       species&tree = 7  G  C  R  L  A  Q  O
+                         2  2  2  2  2  2  1
 
 When you run the program and input the indices of the three species, for example 
 1 5 3 
@@ -63,8 +63,8 @@ Or equivalently you can collect the input into a file (in-4s-GARO.txt) and use r
    bpp-subsample-data bpp-subsample-data.ctl < in-4s-GARO.txt
 
 The control file lists 4 species, as follows
-  species&tree = 7  G  C  R  L  A  Q  O
-                    2  2  2  2  2  2  1
+       species&tree = 7  G  C  R  L  A  Q  O
+                         2  2  2  2  2  2  1
 
 The input (4: 1 5 3 7) means we extrat 4 sequences per locus, one each from G, A, R, O.
 The generated sequence file will be in  testdata.coding.3L12.GARO.txt, and the indices
